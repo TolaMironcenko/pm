@@ -1,4 +1,4 @@
-# PM - is the simple package manager for linux
+# PM - is the simple package manager for linux (experimental)
 
 ## example to use
 ```sh

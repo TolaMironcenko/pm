@@ -37,7 +37,9 @@ exit 0
 ```
 ## example rmf
 ```sh
-pm_package_manager.sh
+/usr/bin/pm
+/usr/share/pm/list.pm
+/usr/share/pm/pm.log
 ```
 ## example rmd
 ```sh

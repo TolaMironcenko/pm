@@ -41,7 +41,7 @@ check_status () {
 #----------------------------------------
 #---------------- help function ---------------------
 help () {
-    printf "$YELLOW Use $0 [option] [package_name]\n\n$NC"
+    printf "$YELLOW Use: $0 [option] [package_name]\n\n$NC"
     printf "$YELLOW Options:\n"
     printf "\t$GREEN-l, l, list, --list $BLUE->$NC list of installed packages\n"
     printf "\t$GREEN-il, il, localinstall, --localinstall $BLUE->$NC install local package\n"
